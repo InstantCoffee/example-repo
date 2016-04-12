@@ -1,0 +1,34 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to my awesome example Repo!\n\n\nThis Documentation was build with mkdocs!\n\n\nToC\n\n\n\n\n\n\nHello World Examples\n\n\n\n\nHelloWorld.c\n\n\nHelloWorld.cpp\n\n\nHelloWorld.py\n\n\nHelloWorld.rb \n\n\n\n\n\n\n\n\nExamples in Detail:\n\n\nEvery example explained in Detail..... No!\n\n\nHelloWorld.c\n\n\nSuper important stuff about a mor super important stuff.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-my-awesome-example-repo",
+            "text": "This Documentation was build with mkdocs!",
+            "title": "Welcome to my awesome example Repo!"
+        },
+        {
+            "location": "/#toc",
+            "text": "Hello World Examples   HelloWorld.c  HelloWorld.cpp  HelloWorld.py  HelloWorld.rb",
+            "title": "ToC"
+        },
+        {
+            "location": "/#examples-in-detail",
+            "text": "Every example explained in Detail..... No!",
+            "title": "Examples in Detail:"
+        },
+        {
+            "location": "/#helloworldc",
+            "text": "Super important stuff about a mor super important stuff.",
+            "title": "HelloWorld.c"
+        },
+        {
+            "location": "/about/",
+            "text": "301 Moved Permanently\n\n\n\n\n301 Moved Permanently\n\n\nnginx/1.6.2",
+            "title": "About"
+        }
+    ]
+}
